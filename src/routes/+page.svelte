@@ -1,8 +1,10 @@
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Team SMP: Home</title>
+	<meta name="description" content="The Team SMP website." />
 </svelte:head>
 
-<section class="m-5 mt-20">
-	<h1 class="text-9xl font-title"><b>Team SMP</b></h1>
-</section>
+<script lang="ts">
+	import TitleBlock from "$lib/components/TitleBlock.svelte";
+</script>
+
+<TitleBlock><b>Team SMP</b></TitleBlock>
