@@ -41,7 +41,7 @@
             <h2 class="text-4xl">Server Status</h2>
             <div class="flex items-center text-xl">
                 <div class="bg-emerald-600 w-4 h-4 rounded-full mr-2"></div>
-                <p>Online</p>
+                <p class="font-black text-emerald-600">Online</p>
             </div>
             <p>Players Online: <b>{serverStatus.body.players.online !== 0 ? serverStatus.body.players.online : "None"}</b></p>
             <p>Minecraft Java 1.19.3-{latestRelease}</p>
@@ -49,7 +49,7 @@
             <h2 class="text-4xl">Server Status</h2>
             <div class="flex items-center">
                 <div class="bg-rose-600 w-4 h-4 rounded-full mr-2"></div>
-                <p>Offline</p>
+                <p class="font-black text-rose-600">Offline</p>
             </div>
         {/if}
     {:else}
