@@ -10,7 +10,7 @@
 </nav>
 
 {#key data.currentRoute}
-	<div in:fade={{ duration: 300, delay: 400 }} out:fade={{ duration: 150 }}>
+	<div in:fade={{ duration: 300, delay: 400 }} out:fade={{ duration: 150 }} class="md:text-xl">
 		<slot />
 	</div>
 {/key}

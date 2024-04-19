@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Team SMP Blog: {data.title}</title>
+</svelte:head>
+
 <script>
 	import TitleBlock from "$lib/components/TitleBlock.svelte";
 
