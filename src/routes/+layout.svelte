@@ -7,6 +7,7 @@
 <nav id="navbar" class="flex flex-row gap-6 text-xl ms-2">
 	<div class="flex-none hover:scale-110 hover:translate-y-0.5 transition-transform target:text-emerald-500"><a href="/" id="">Home</a></div>
 	<div class="flex-none hover:scale-110 hover:translate-y-0.5 transition-transform target:text-emerald-500"><a href="/blog" id="blog">Blog</a></div>
+	<div class="flex-none hover:scale-110 hover:translate-y-0.5 transition-transform target:text-emerald-500"><a href="/business" id="business">Businesses</a></div>
 </nav>
 
 {#key data.currentRoute}
