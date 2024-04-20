@@ -31,7 +31,7 @@
 	{#each businessInfo as { id, link, displayname, desc, image, founders }}
 		<div class="bg-gray-300 dark:bg-slate-900 rounded-xl shadow-md hover:shadow-lg shadow-gray-400 hover:shadow-gray-400 dark:shadow-slate-950 dark:hover:shadow-slate-950 transition-shadow flex flex-col h-ful">
 			<a href={link}>
-				<img class=" rounded-t-xl w-full " src={image} alt={displayname} />
+				<img class=" rounded-t-xl w-full " src="{image}" alt="{displayname}" />
 				<div class="p-7 pt-5">
 					<h3 class="text-3xl font-bold mb-2">{displayname}</h3>
 					<p class="mb-2 flex-grow">{desc}</p>
