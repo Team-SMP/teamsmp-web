@@ -8,5 +8,5 @@ export default {
 			mono: ['"JetBrains Mono"', "Consolas", '"Courier New"', "monospace"],
 		},
 	},
-	plugins: [require("@tailwindcss/typography")],
+	plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
 };

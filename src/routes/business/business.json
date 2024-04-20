@@ -1,0 +1,16 @@
+{
+    "teamsmp-resorts": {
+        "link": "/business/teamsmp-resorts",
+        "displayname": "Team SMP Resorts",
+        "desc": "The Team SMP Resorts business offers a range of different hotels and resorts, like the Polaris and Adornis hotels.",
+        "image": "/src/lib/images/business/resorts.png",
+        "founders": ["SashaBalobent"]
+    },
+    "monkey-wall-street": {
+        "link": "/business/monkey-wall-street",
+        "displayname": "Monkey Wall Street",
+        "desc": "Monkey Wall Street is a multipurpose shop that always offers items at the lowest prices.",
+        "image": "/src/lib/images/business/mwstreet.png",
+        "founders": ["StealthNinja914"]
+    }
+}
