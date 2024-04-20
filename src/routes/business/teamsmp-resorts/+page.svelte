@@ -58,11 +58,11 @@
 
 	<h3 class="font-black text-4xl font-title mb-3 mt-4"><i>pricing</i></h3>
 
-	<ul class="mb-2 2xl:w-3/5 xl:w-1/2 w-full backdrop-blur-lg backdrop-brightness-75 p-3 lg:px-6 px-3 ps-9 rounded-lg list-disc">
-		<li>1 night: 100 Ampersand</li>
-		<li>2 nights: 200 Ampersand</li>
-		<li>3 or more: 500 Ampersand</li>
-		<li class="mt-2">VIP rooms: 150 Ampersand extra</li>
+	<ul class="mb-2 2xl:w-3/5 xl:w-1/2 w-full backdrop-blur-lg backdrop-brightness-75 p-3 lg:px-6 px-3 rounded-lg list-disc">
+		<li class="ms-3">1 night: 100 Ampersand</li>
+		<li class="ms-3">2 nights: 200 Ampersand</li>
+		<li class="ms-3">3 or more: 500 Ampersand</li>
+		<li class="mt-2 ms-3">VIP rooms: 150 Ampersand extra</li>
 	</ul>
 
 	<p class="mb-2 2xl:w-3/5 xl:w-1/2 w-full backdrop-blur-lg backdrop-brightness-75 p-3 lg:px-6 px-3 rounded-lg">
