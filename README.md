@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **THIS WEBSITE IS NO LONGER ACTIVE**
+>
+> A permanent redirect will be issued to any page on the site to the new one - (https://teamsmp.pages.dev)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).

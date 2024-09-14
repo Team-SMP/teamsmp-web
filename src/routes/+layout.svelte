@@ -1,4 +1,8 @@
 <script>
+	import { redirect } from '@sveltejs/kit';
+
+	redirect(301, "https://teamsmp.pages.dev");
+
 	import { fade } from 'svelte/transition';
 	import "../app.css"
 	export let data;
