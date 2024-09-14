@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **THE OLD TEAM SMP WEBSITE HAS REACHED END-OF-LIFE**
+>
+> Upon trying to visit, you will be redirected to [teamsmp.pages.dev](https://teamsmp.pages.dev)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
